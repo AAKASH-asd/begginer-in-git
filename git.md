@@ -5,4 +5,4 @@
 * to check git config --list
 ## rest of the users
 * git init
-* 
+* git  log-gives  all the history of  commits
